@@ -1,0 +1,20 @@
+Algoritmo CalculoSimple
+	Definir NumX, NumY, Suma, Dif, Producto, Cociente, Potencia, Resta como Real 
+	Escribir "Ingresa al primer numero porfavor: "
+	Leer NumX
+	Escribir "Ingresa el segundo numero porfavor: "
+	Leer NumY
+	Suma = NumX + NumY 
+	Dif = NumX - NumY
+	Producto = NumX * NumY
+	Cociente = NumX / NumY
+	Potencia = NumX ^ NumY
+	Resto = NumX Mod NumY
+	
+	Escribir "La suma de: " NumX " + " NumY " es: " Suma
+	Escribir "El resultado de la diferencia entre: " NumX " - " NumY " es: " Dif
+	Escribir "El resultado del productodo de: " NumX " * " NumY " es: " Producto
+	Escribir "El resultado del cociente de: " NumX " / " NumY " es: " Cocientente
+	Escribir "El resultado de la potenciacion de: " NumX " elevado a " NumY " es: " Potencia 
+	Escribir "El residuo o modulo de de: " NumX " / " NumY " es: " Resto 
+FinAlgoritmo  
